@@ -1,4 +1,4 @@
-<h1>Using Sliver</h1>
+<h1>Using Armitage</h1>
 
 <h2>Description</h2>
 Armitage is an extension of the Metasploit Framework - it adds a Graphical user interface and is written in Java, and is very similar to Cobalt Strike.
