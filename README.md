@@ -13,7 +13,6 @@ Armitage is an extension of the Metasploit Framework - it adds a Graphical user 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
-- <b>Ubuntu Server</b>
 
 <h3>Installation</h3>
   - <b>Armitage can be installed using the following command <i>apt install armitage</i></b><br />
