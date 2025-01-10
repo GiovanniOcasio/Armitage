@@ -27,12 +27,13 @@ After installing Armitage, if you are on Kali Linux ensure that your Metasploit 
   <img src="./imgs/msfdb_init.png"/>
 </p>
 <br />
-<b>Step 2: Run Armitage</b>
+<b>Step 2: Run Armitage</b><br />
 Once that is done we can run Armitage:<br />
 <p align="center">
   <img src="./imgs/run_armitage.png"/>
 </p>
 <br />
+<b>Step 3: Begin Attack</b><br />
 Then the GUI will open:
 <p align="center">
   <img src="./imgs/armitage_gui.png"/>
