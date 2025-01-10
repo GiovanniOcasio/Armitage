@@ -15,17 +15,19 @@ Armitage is an extension of the Metasploit Framework - it adds a Graphical user 
 - <b>Windows 10</b>
 
 <h3>Installation</h3>
-  - <b>Armitage can be installed using the following command <i>apt install armitage</i></b><br />
+  Armitage can be installed using the following command <i>apt install armitage</i><br />
 <p align="center">
   <img src="./imgs/install_armitage.png"/>
 </p>
 <br />
 <h3>Running Armitage</h3>
-After installing Armitage,if you are on Kali Linux ensure that your Metasploit Database has been initialized with the following command: <i>sudo msfdb init</i>. Alternatively, you can run the sliver client with the <i>sliver-client</i> command:<br />
+<b>Step 1: Initialize MsfDB</b><br />
+After installing Armitage, if you are on Kali Linux ensure that your Metasploit Database has been initialized with the following command: <i>sudo msfdb init</i>. <br />
 <p align="center">
   <img src="./imgs/msfdb_init.png"/>
 </p>
 <br />
+<b>Step 2: Run Armitage</b>
 Once that is done we can run Armitage:<br />
 <p align="center">
   <img src="./imgs/run_armitage.png"/>
